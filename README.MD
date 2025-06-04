@@ -1,4 +1,4 @@
-# 📊 Projeto Power BI – Vendas de Rolamentos
+# 📊 Projeto Power BI – Vendas Empresa de Rolamentos
 
 Este projeto apresenta uma análise interativa das **vendas de rolamentos**, desenvolvida em Power BI. Ele permite visualizar e explorar os principais indicadores de desempenho comercial, com foco em faturamento, clientes, produtos e tendências.
 
